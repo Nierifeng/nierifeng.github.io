@@ -1,0 +1,7 @@
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+      - name: kidwen
+        link: https://kidwen.top/
+        descr: 主站, 前端知识分享
+        avatar: https://avatars.githubusercontent.com/u/38277891?v=4
